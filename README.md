@@ -1,1 +1,48 @@
-# XPost
+## Overview
+
+**XPosts** is a web application that enables users to effortlessly craft engaging X Posts (Tweets) using advanced AI technology. The app features a modern, responsive design and leverages scripts and styles for a seamless user experience. It is ideal for individuals and brands looking to quickly generate high-quality social media content with minimal effort.[2][3][1]
+
+## Features
+
+- **AI-powered Tweet Generation:** Utilizes sophisticated algorithms to turn your ideas into well-written posts.[1][2]
+- **Dynamic Web Interface:** Responsive design with gradient backgrounds and visually appealing elements.
+- **Easy-to-Use Form:** Users describe their desired topic, and the AI creates a draft X Post.
+- **Mobile Ready:** Optimized for various devices using viewport meta tags and adaptive styling.
+- **Branding & Metadata:** Customized Open Graph and Twitter meta tags for better social media integration.
+
+## Installation
+
+1. Clone the repository featuring the XPosts source code.
+2. Ensure you have a compatible web server to serve static HTML, CSS, and JS files.
+3. Place all resources in the correct directories (e.g., `/css`, `/js`, `/favicon.ico`).
+4. Open `index.html` in your browser to launch the application.[2][1]
+
+## Usage
+
+1. Go to the homepage (typically `index.html`).
+2. Enter the topic or description in the text area.
+3. Click the submit button (“arrow up right” icon) to generate a suggested X Post.
+4. Review and edit the generated post as needed before sharing on X (Twitter).[4][2]
+5. Footer attribution links to the creator’s X profile for further support.
+
+## File Structure
+
+- `/css/` — Stylesheets for visual design and layout.
+- `/js/` — Script files for AI functionality and UI interactivity.
+- `index.html` — Main HTML structure for the application.
+- `favicon.ico` — Site icon for browser tabs and bookmarks.
+
+## Customization
+
+- Update meta tags in `<head>` for your own branding or description.
+- Modify styles in the `/css/` folder to change color themes or fonts.
+- Enhance form validation and error handling in the script files.
+
+## Support
+
+For questions, bug reports, or feature requests, contact the creator via X:
+- [@RahulKC_G, X.com](https://x.com/RahulKC_G)[1]
+
+***
+
+**Note:** This README assumes static deployment. If using additional back-end AI services or APIs, refer to their documentation for necessary API keys or server logic integration.
